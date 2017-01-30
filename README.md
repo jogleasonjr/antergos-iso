@@ -32,7 +32,7 @@ Modified version of archiso to build the Antergos ISO with official drivers and 
 
 `sudo make install`
 
-`cp /usr/share/antergos-iso/configs/antergos /var/tmp/antergos`
+`cp -r /usr/share/antergos-iso/configs/antergos /var/tmp`
 
 ### Clone antergos-gfxboot 
 
