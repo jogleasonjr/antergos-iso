@@ -1,4 +1,4 @@
-Modified version of archiso to build the Antergos ISO
+Modified version of archiso to build the Antergos ISO official drivers for an NVIDIA GTX 1080.
 
 ## Dependencies ##
 
