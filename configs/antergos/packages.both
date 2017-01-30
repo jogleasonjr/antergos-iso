@@ -72,13 +72,19 @@ xf86-input-synaptics
 xf86-video-ati
 xf86-video-fbdev
 xf86-video-intel
-xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vesa
 xf86-video-vmware
 xorg-server
 xorg-server-utils
 
+# NVIDIA Drivers
+
+nvidia
+nvidia-utils
+nvidia-libgl
+lib32-nvidia-libgl
+nvidia-settings
 
 # System Tools
 
