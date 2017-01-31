@@ -1,6 +1,6 @@
 Modified version of archiso to build the Antergos ISO with official drivers and boot options for an NVIDIA GTX 1080.
 
-## Dependencies ##
+# Dependencies ##
 
 - antergos-gfxboot for a graphical boot (or isolinux/syslinux)
 
@@ -26,7 +26,13 @@ Modified version of archiso to build the Antergos ISO with official drivers and 
 - squashfs-tools
 - wget
 
-## Instructions ##
+# Build Instructions ##
+
+## Option 1: Experimental build script
+
+`sudo ./clean-and-build.sh`
+
+## Option 2: Original build steps
 
 ### Configure
 
